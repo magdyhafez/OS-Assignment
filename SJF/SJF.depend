@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1458474801 source:/home/mohamed/Documents/codeblocks workspace/SJF/main.cpp
+	<iostream>
+	"SchedulingAlgorithms.h"
+	<cstdlib>
+
+1458473387 /home/mohamed/Documents/codeblocks workspace/SJF/SchedulingAlgorithms.h
+	<iostream>
+	<string>
+
+1458477877 source:/home/mohamed/Documents/codeblocks workspace/tryalgos/SJF/main.cpp
+	<iostream>
+	"SchedulingAlgorithms.h"
+	<cstdlib>
+
+1458477789 /home/mohamed/Documents/codeblocks workspace/tryalgos/SJF/SchedulingAlgorithms.h
+	<iostream>
+	<string>
+
+1458478365 source:/home/mohamed/Documents/codeblocks workspace/algo/SJF/main.cpp
+	<iostream>
+	"SchedulingAlgorithms.h"
+	<cstdlib>
+
+1458478290 /home/mohamed/Documents/codeblocks workspace/algo/SJF/SchedulingAlgorithms.h
+	<iostream>
+	<string>
+
