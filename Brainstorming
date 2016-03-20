@@ -1,0 +1,32 @@
+/* 
+proirity[10]
+remaining_time[10]
+arrival_time [10]
+ assume 3 processes
+each iteration 
+start of iteration
+and end of iteration
+remaining time=remaining time-(start of iteration-end of iteration)
+-------------------------------------------------------------------------
+sort(arrival time[]);
+int current_time ;
+for(i=0;i<10;i++)
+{
+      if(current_time<arriaval[i]) current_time=arrival[i];
+     else{
+               remaining_time[i-1]=remaining_time[i-1]-arrival_time[i];
+               obtain the index which has highest priority now-----> index;
+               display new slot
+               current_time=arrival[i];
+         }
+}
+---------------------------------------------------------------------------------
+Process           Arrrival time             burst       prio
+P1                    0                       5           2
+p2                    2                        4          1
+p3                    5                        2           3
+p1                    2                        3           2
+
+
+MIN arrival from remaining 
+
